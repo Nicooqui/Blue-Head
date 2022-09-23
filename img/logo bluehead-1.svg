@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 543.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #5d9ec7;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-5 {
+        font-family: FranklinGothic-Medium, 'Franklin Gothic Medium';
+        font-size: 96px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(54.73 513.57) scale(1.46 1)"><tspan class="cls-2" x="0" y="0">Blue</tspan><tspan class="cls-6" x="145.54" y="0">Head</tspan></text>
+  <text/>
+  <rect class="cls-7" x="65.01" width="466.22" height="447"/>
+  <path class="cls-3" d="M401.58,158.09c2.65-18.67-2.28-38.3-13.42-53.51-19.09-26.05-53.22-36.64-85.47-38.52-24.54-1.43-50.11,1.51-71.33,13.91-23.02,13.44-38.93,37.04-47.1,62.41-8.17,25.37-9.22,52.52-7.71,79.13,2.12,37.33,9.58,75.43,30.02,106.74,20.44,31.31,55.84,54.69,93.19,52.91,24.79-1.18,48.31-13.24,66.17-30.49,17.85-17.24,30.4-39.37,39.29-62.54,21.8-56.75,21.41-124.16-11.22-175.45"/>
+  <polygon class="cls-1" points="266.63 275.89 234.28 258.54 201.93 275.89 208.11 239.13 181.93 213.1 218.1 207.74 234.28 174.29 250.45 207.74 286.62 213.1 260.45 239.13 266.63 275.89"/>
+  <circle class="cls-1" cx="356.15" cy="232.91" r="42.98"/>
+  <circle class="cls-3" cx="356.15" cy="232.91" r="23.26"/>
+  <line class="cls-4" x1="239.03" y1="336.79" x2="261.46" y2="313.63"/>
+  <line class="cls-4" x1="278.48" y1="335.34" x2="257.61" y2="315.45"/>
+  <line class="cls-4" x1="296.08" y1="311.35" x2="272.83" y2="335.36"/>
+  <line class="cls-4" x1="290.36" y1="311.21" x2="313.6" y2="335.22"/>
+  <line class="cls-4" x1="308.09" y1="335.19" x2="328.96" y2="315.3"/>
+  <line class="cls-4" x1="345.77" y1="338.31" x2="323.34" y2="315.15"/>
+  <rect class="cls-3" x="287.52" y="301.47" width="17.78" height="8.4" transform="translate(309.82 -119.9) rotate(45.92)"/>
+  <rect class="cls-3" x="277.73" y="305.11" width="17.78" height="8.4" transform="translate(708.21 318.57) rotate(134.08)"/>
+</svg>
