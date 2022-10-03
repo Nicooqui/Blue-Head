@@ -37,8 +37,9 @@
 }
 
 ion-icon {
-    font-size: 25px;
+    font-size: 30px;
     padding: 0 10px;
+    --ionicon-stroke-width: 45px;
 }
 
 
@@ -87,12 +88,14 @@ p {
     align-items: center;
     flex-direction: row;
     max-height: 250px;
-    width: 390px;
+    width: 410px;
+    margin-left: 30px;
 }
 
 .tshirt {
-    width: 180px;
-    height: 160px;
+    width: 190px;
+    height: 180px;
+    margin-top: 15px;
 }
 
 .cardText {
@@ -148,14 +151,22 @@ button {
     width: 116px;
     border-radius: 4px;
     border: none;
-    background-color: rgb(214, 210, 210);
+    background-color: #d6d2d2;
     color: #5d9ec7;
+}
+
+button:hover {
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .bh_Color {
     background-color: #5d9ec7;
     color: #ffffff;
 }
+
+
+
 
 
 /* FOOTER */
