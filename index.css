@@ -79,6 +79,17 @@ p {
     align-items: center;
 }
 
+.productos:after {
+    content: "";
+    display: block;
+    width: 208px;
+    height: 5px;
+    background: #000000;
+    right: 106px;
+    top: 1230px;
+    position: absolute;
+}
+
 .remeras_Title {
     margin-top: 70px;
 }
@@ -90,11 +101,12 @@ p {
     max-height: 250px;
     width: 390px;
     margin-left: 30px;
+    margin-bottom: 30px;
 }
 
 .tshirt {
     width: 190px;
-    height: 180px;
+    height: 260px;
     margin-top: 15px;
 }
 
